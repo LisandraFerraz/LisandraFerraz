@@ -10,7 +10,7 @@ I am called <strong> Lisandra Ferraz </strong>  and I am a brazilian <strong>fro
 <table  align="center">
 <tr align="center">
 <td> <strong>Knowledge</strong></td>
-<td> <strong>Ferramentas</strong></td>
+<td> <strong>Tools</strong></td>
 </tr>
 <tbody align="center">
 <tr>
