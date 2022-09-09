@@ -8,9 +8,11 @@ I am called <strong> Lisandra Ferraz </strong>  and I am a brazilian <strong>fro
 </p>
 
 <table  align="center">
+<thead>
 <tr align="center">
 <td> <strong>Knowledge</strong></td>
 <td> <strong>Tools</strong></td>
+</thead>
 </tr>
 <tbody align="center">
 <tr>
