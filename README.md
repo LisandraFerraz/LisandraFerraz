@@ -35,8 +35,7 @@ I am called <strong> Lisandra Ferraz </strong>  and I am a brazilian <strong>fro
 <p  align="left">
 Is there anything cool you want to share? Reach me out! The best way of learning is through talking and spreading knowledge :)
 </p>
-
-
+<br>
 <div align="center">
 <p align="center">
 <strong>You have been invited to visit my profile and chat!</strong>
