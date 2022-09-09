@@ -1,43 +1,46 @@
-<img  src="https://user-images.githubusercontent.com/61096682/189206495-da1abc67-6f76-428e-8239-a7efdef06bd9.svg"  min-width="380px"  max-width="380px"  width="300px"  align="right"  alt="Computador iuriCode">
+<img  src="https://user-images.githubusercontent.com/61096682/189417947-06702f5b-718e-44ee-935d-da5b3dffe7f2.png"  >
 
+<h2 align="center"> How is it going? </h2>
+
+<p  align="left">
+I am called <strong> Lisandra Ferraz </strong>  and I am a brazilian <strong>front-end developer</strong>. Want to hear more about design ideas for your project?
+</p>
+
+<table  align="center">
+<tr align="center">
+<td> <strong>Knowledge</strong></td>
+<td> <strong>Ferramentas</strong></td>
+</tr>
+<tbody align="center">
+<tr>
+<td>HTML, CSS</td>
+<td>VSCode</td>
+</tr>
+<tr>
+<td>JavaScript, TypeScript</td>
+<td>Canva</td>
+</tr>
+<tr>
+<td>Angular, Bootstrap</td>
+<td>Figma</td>
+</tr>
+<tr>
+<td>UI/UX Design</td>
+<td>Git and GitHub</td>
+</tr>
+</tbody>
+</table>
   
 
 <p  align="left">
-
-Hello World! I am called Lisandra Ferraz and I am a front-end developer. Tell me about your ideas :)</strong>
-
+Is there anything cool you want to share? Reach me out! The best way of learning is through talking and spreading knowledge :)
 </p>
 
-  
 
-<p  align="left">
-
-🦄 Knowledges: <strong>HTML, CSS, JavaScript, TypeScript, Angular Bootstrap and UI/UX Design.</strong>
-
+<div align="center">
+<p align="center">
+<strong>You have been invited to visit my profile and chat!</strong>
 </p>
-
-  
-
-<p  align="left">
-
-💼 Ferramentas: <strong>VSCODE, Figma, Git and GitHub.</strong>
-
-</p>
-
-  
-
-<p  align="left">
-Let's share thoughts and ideas! Reach me out!
-</p>
-
-  
-
-
 <a  href="https://www.linkedin.com/in/lisandraferrazs/"  alt="Linkedin">
-
 <img  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lisandraferrazs/"  /></a>
-
-  
-  
-
-</p>
+</div>
