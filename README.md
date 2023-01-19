@@ -24,7 +24,7 @@ I am called <strong> Lisandra Ferraz </strong>  and I am a brazilian <strong>fro
 <td>Canva</td>
 </tr>
 <tr>
-<td>Angular, Bootstrap</td>
+<td>Angular, Tailwind, Bootstrap</td>
 <td>Figma</td>
 </tr>
 <tr>
@@ -44,6 +44,8 @@ Is there anything cool you want to share? Reach me out! The best way of learning
 </p>
 <a  href="https://www.linkedin.com/in/lisandraferrazs/"  alt="Linkedin">
 <img  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lisandraferrazs/"  /></a>
+<a  href="https://www.frontendmentor.io/profile/LisandraFerraz"  alt="Linkedin">
+<img src="https://img.shields.io/badge/-FRONTEND%20MENTOR-white"/></a>
 <a  href="https://codepen.io/lisandraferraz/collections/public"  alt="Linkedin">
 <img  src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"  /></a>
 
